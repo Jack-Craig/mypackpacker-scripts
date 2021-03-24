@@ -1,0 +1,1 @@
+require('../helpers/sendMessage')({isWorkerMessage:true,isAdminMessage:false, type:'updatePackStats',targets:[],content:process.argv[2]})

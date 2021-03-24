@@ -1,0 +1,29 @@
+{
+  "name": "mypackpacker-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm i",
+    "start": "echo Started"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Craig/mypackpacker-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Craig/mypackpacker-scripts/issues"
+  },
+  "homepage": "https://github.com/Jack-Craig/mypackpacker-scripts#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.5",
+    "rsmq": "^0.12.2"
+  }
+}

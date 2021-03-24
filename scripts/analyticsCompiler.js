@@ -1,0 +1,1 @@
+require('../helpers/sendMessage')({isWorkerMessage:true,isAdminMessage:false, type:'analyticsCompile',targets:[],content:''})
