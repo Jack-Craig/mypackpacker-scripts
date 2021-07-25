@@ -1,0 +1,1 @@
+require('../helpers/sendMessageQ')({type: 'priceUpdate', content:{}}, 'web-work')

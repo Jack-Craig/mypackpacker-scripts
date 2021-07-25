@@ -1,0 +1,1 @@
+require('../helpers/sendMessageQ')({type: 'productDiscovery', content:{}}, 'web-work')
